@@ -1,6 +1,6 @@
-# This is for personal learning.
-## Contents of this training are as follows
-## [Main page](https://verniet.free.nf/public_html/index.php)
+# Persoon leer om website te fix en maak.
+## Training is as volgende
+## [Om main webpage links van IPTV.org te gebruik](https://verniet.free.nf/public_html/index.php)
 - This is the most recent version of my page
 - This is where the freshes code go
 - En probeer om website te leer
