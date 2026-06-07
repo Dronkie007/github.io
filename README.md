@@ -19,5 +19,5 @@
 - persoonlik links wat kan werk
 - en onder om ander webpage te kyk
 
-- ### [Extra Webpage](https://verniet.free.nf/public_html/iptv/Extra\ \Sites\ \Edits/index.html)
+- ### [Extra Webpage](https://verniet.free.nf/public_html/iptv/Extra_sites_edits/index.html)
 - try free iptv
