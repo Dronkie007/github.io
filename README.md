@@ -1,13 +1,13 @@
 # Persoon leer om website te fix en maak.
 ## Training is as volgende
-## [Om main webpage links van IPTV.org te gebruik](https://verniet.free.nf/public_html/index.php)
+## [Om main webpage links van IPTV.org te gebruik]([(https://verniet.free.nf/public_html/index.html)]
 - This is the most recent version of my page
 - This is where the freshes code go
 - En probeer om website te leer
 - IPTV links wat ek change en probeer reg werk.
 
 [//]: # ()
-[//]: # (### [Second page]&#40;https://verniet.free.nf/public_html/login_system/&#41; )
+[//]: # (### [Second page]&#40;https://verniet.free.nf/public_html/index.html; )
 
 [//]: # (- This is where I test links)
 
